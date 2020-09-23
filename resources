@@ -1,0 +1,10 @@
+module 7
+sysrep-
+https://docs.microsoft.com/en-us/azure/virtual-machines/windows/capture-image-resource
+
+restore VM
+https://docs.microsoft.com/en-us/azure/backup/about-azure-vm-restore
+https://docs.microsoft.com/en-us/azure/backup/backup-azure-arm-restore-vms
+
+ad sync
+https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-sync-configure-filtering
