@@ -8,3 +8,7 @@ https://docs.microsoft.com/en-us/azure/backup/backup-azure-arm-restore-vms
 
 ad sync
 https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-sync-configure-filtering
+
+resource access management in azure
+https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/govern/resource-consistency/governance-simple-workload
+https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/govern/resource-consistency/resource-access-management
